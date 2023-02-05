@@ -1,4 +1,4 @@
-#ATG Task : 2
+# ATG Task : 2
 ---
 ## Description 🤙 
 Check out this video. You have to mimic the same scroll behavior as part of your assignment. UI and all the effects should exactly be the same. 
